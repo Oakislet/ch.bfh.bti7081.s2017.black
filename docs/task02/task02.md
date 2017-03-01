@@ -13,6 +13,7 @@
 - Unflexibel bei sich später ändernden Anforderungen
 - Anspruchsvoll, alle Anforderungen von Anfang an zu kennen und dafür zu planen
 - Anspruchsvolle Ressourcenplanung zum Voraus
+- Bürokratiefreundlich
 
 
 ## Agile Approach
@@ -33,9 +34,20 @@
 
 ## Entscheid: Agile
 
-Viele Unternehmen wählen Agile weil sich ständig änderne Anforderungen Realität sind. Plan-Driven 
-funktioniert nur schlecht vor diesem Hintergrund. Oftmals weiss nicht mal der Kunde selber
-was er genau will, und auch ihm wird es erst während dem Entwicklunsprozess klarer. Agile passt
-dafür besser. 
+Viele Unternehmen wählen Agile weil sich ständig änderne Anforderungen Realität sind. 
+Plan-Driven können nicht oder nur schlecht auf nachträgliche, unerwartete Änderungswünsche reagieren. 
+Oftmals weiss nicht mal der Kunde selber was er genau will, und auch ihm wird es erst 
+während dem Entwicklunsprozess klarer. Agile passt dafür besser. Je mehr nach Plan gearbeitet wird, 
+desto mehr erhält man das, was geplant wurde, und nicht das, was gebraucht wird. 
+Ausserdem kann die Kommunikation zwischen dem Kunden und den Mitarbeitenden gefördert werden,
+damit die Anforderungen verstanden werden und wie gewünscht umgesetzt werden können.
+Ein weiterer Vorteil besteht in der nicht existenten oder nur minimalen Planungsphase:
+Ein Prototyp kann dem Kunden schnell präsentiert werden und eine in die falsche Richtung laufende
+Entwicklung früh erkannt und korrigiert werden. So ist es jederzeit möglich flexibel auf
+Kundenwünsche einzugehen und so die Kundenzufriedenheit insgesamt zu erhöhen. Der Kunde
+erhält das Gefühl, als Teil des Software-Entwicklungs-Prozesses direkt in die Entwicklung 
+eingebunden zu werden, anstatt als Auftraggeber aussen vor zu bleiben.
+
+
 
 
