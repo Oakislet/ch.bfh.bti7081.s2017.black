@@ -32,7 +32,7 @@
 - Gefahr, keine klar definierten Lieferobjekte vertraglich abbilden zu können
 - Anspruchsvoller für die einzelnen Software-Entwickler
 
-## Entscheid: Agile
+## Entscheid: Agile mit Planungskomponenten
 
 Viele Unternehmen wählen Agile weil sich ständig Ãnderne Anforderungen Realität sind. In unserem Fall kommt dies zum tragen, da die Spitalfunktionen auf mehrere sehr unterschiedliche Zentren verteilt sind. Daher ist auch spät mit essentiellen Anforderungen zu rechnen. Plan-Driven können nicht oder nur schlecht auf solche nachträgliche, unerwartete Ãnderungswünsche reagieren.
 
