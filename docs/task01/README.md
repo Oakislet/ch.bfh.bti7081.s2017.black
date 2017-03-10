@@ -1,32 +1,41 @@
 # Task 01
 
-### Target users
+## Target users
 
-- Health autority
+- Health authority
 - Clinical Staff
 	- doctors
 	- nurses
 	- health visitors
 - Receptionists
 - Medical record staff
-- health autority
 
 
-### Key features
+## Key features
 
-- Managing patients
+- Patient management
 	- information about patients for nurses
 		- Medical prescription handling
 		- Swift address management
 		- Patients risk management
-	- information reports for management
+- Clinic and doctor management
+- Multi user access control
 - Appointment & Calendar functions
-- Role based acces control
+- Role based access control
 - Secure data management
+- Reporting
 
 	
-### Critical success factors
+## Critical success factors
 
-- Appointment & Calender functions
-- Secure data handling
 - Stable and secure database
+- _See key features_ 
+
+## Optional features
+
+- auditing
+- search history
+- prescription loss tracking
+- automatic address change
+- knowledge handling and exchange
+

@@ -1,7 +1,9 @@
 #Project Diary
 
-Datum: 01.03.2017
-- Remo, Gabriel und Lukas haben die Erkentnisse, die Sie beim erarbeiten von Task01 
-gefunden haben in einem Dokument unter dem Pfad /docs/task01 festgehalten.
-- Patrick, Hendrik und Yannick haben die Erkentnisse und Entscheidungen, die Sie beim erarbeiten von Task02 
-gefunden/gefällt haben in einem Dokument unter dem Pfad /docs/task02 festgehalten.
+| Datum        | Personen           | Task  | Beschreibung |
+| ------------- |:-------------:| -----:|-------------|
+| 01.03.2017      | Lukas, Remo, Gabriel |task01 | Die Erkentnisse wurde von den beteiligten Personen in einem Dokument festgehalten|
+| 01.03.2017      | Patrick, Henrik, Yannick |task02 | Die Erkentnisse und Entscheidungen wurde von den beteiligten Personen in einem Dokument festgehalten|
+| 10.03.2017 	  | Patrick, Yannick | CS Task01 | Task01  erledigt|
+| 10.03.2017 	  | Henrik | CS Task02 | Task02 erledigt|
+| 10.03.2017 	  | Lukas, Remo, Gabriel | CS Task03 |  Task03 erledigt|

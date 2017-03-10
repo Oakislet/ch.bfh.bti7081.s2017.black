@@ -10,7 +10,7 @@
 
 ### Cons
 - Viel Planungsaufwand bevor mit der Implementation begonnen werden kann
-- Unflexibel bei sich später ändernden Anforderungen
+- Unflexibel bei sich später Ä¤ndernden Anforderungen
 - Anspruchsvoll, alle Anforderungen von Anfang an zu kennen und dafür zu planen
 - Anspruchsvolle Ressourcenplanung zum Voraus
 - Bürokratiefreundlich
@@ -20,10 +20,10 @@
 
 ### Pros
 - Flexibel
-- Kann dynamisch auf sich ändernde Anforderungen und Unvorhergesehendes reagieren
+- Kann dynamisch auf sich Ã¤ndernde Anforderungen und Unvorhergesehendes reagieren
 - Nicht nötig, vorgängig riesige realitätsferne Papiertiger zu produzieren
 - Ermöglicht CI/CD
-- Ermöglicht öftere Auslieferung
+- Ermöglicht häufigere Auslieferung
 - Direktere Kommunikationswege
 
 ### Cons
@@ -32,20 +32,18 @@
 - Gefahr, keine klar definierten Lieferobjekte vertraglich abbilden zu können
 - Anspruchsvoller für die einzelnen Software-Entwickler
 
-## Entscheid: Agile
+## Entscheid: Agile mit Planungskomponenten
 
-Viele Unternehmen wählen Agile weil sich ständig änderne Anforderungen Realität sind. 
-Plan-Driven können nicht oder nur schlecht auf nachträgliche, unerwartete Änderungswünsche reagieren. 
+Viele Unternehmen wählen Agile weil sich ständig Ãnderne Anforderungen Realität sind. In unserem Fall kommt dies zum tragen, da die Spitalfunktionen auf mehrere sehr unterschiedliche Zentren verteilt sind. Daher ist auch spät mit essentiellen Anforderungen zu rechnen. Plan-Driven können nicht oder nur schlecht auf solche nachträgliche, unerwartete Ãnderungswünsche reagieren.
 
 Oftmals weiss nicht mal der Kunde selber was er genau will, und auch ihm wird es erst 
-während dem Entwicklunsprozess klarer. Agile passt dafür besser. Je mehr nach Plan gearbeitet wird, 
-desto mehr erhält man das, was geplant wurde, und nicht das, was gebraucht wird. 
+während dem Entwicklunsprozess klarer. Da wir hier mit nicht technischen Personen arbeiten, sondern mit medizinischem Personal, ist diesen oft nicht klar was gewünscht oder möglich ist. Agile passt daher besser da ihnen laufend vorgestellt werden kann in welche Richtung sich das Projekt bewegt. Ausserdem kann die Kommunikation zwischen dem Kunden und den Mitarbeitenden gefördert werden, damit die Anforderungen verstanden werden und wie gewünscht umgesetzt werden können.Je mehr nach Plan gearbeitet wird, 
+desto mehr erhält man das, was geplant wurde, und nicht das, was gebraucht wird.
 
-Ausserdem kann die Kommunikation zwischen dem Kunden und den Mitarbeitenden gefördert werden,
-damit die Anforderungen verstanden werden und wie gewünscht umgesetzt werden können.
 
-Ein weiterer Vorteil besteht in der nicht existenten oder nur minimalen Planungsphase:
-Ein Prototyp kann dem Kunden schnell präsentiert werden und eine in die falsche Richtung laufende
+
+Zusammengefasst heisst dies dank der nicht existenten oder nur minimalen Planungsphase 
+ kann dem Kunden schnell ein Prototyp präsentiert werden und eine in die falsche Richtung laufende
 Entwicklung früh erkannt und korrigiert werden. So ist es jederzeit möglich flexibel auf
 Kundenwünsche einzugehen und so die Kundenzufriedenheit insgesamt zu erhöhen. Der Kunde
 erhält das Gefühl, als Teil des Software-Entwicklungs-Prozesses direkt in die Entwicklung 
